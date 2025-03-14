@@ -22,15 +22,15 @@
 
 ## Examples
 
-* [simple data filter](https://deyihu.github.io/maptalks.query/demo/base.html)
-* [simple spatial query](https://deyihu.github.io/maptalks.query/demo/base-spatial.html)
-* [vt data filter](https://deyihu.github.io/maptalks.query/demo/vt.html)
-* [vt spatial query](https://deyihu.github.io/maptalks.query/demo/vt-spatial.html)
-* [spatial query operator](https://deyihu.github.io/maptalks.query/demo/spatial-op.html)
-* [buffer query](https://deyihu.github.io/maptalks.query/demo/buffer.html)
-* [multi layers query](https://deyihu.github.io/maptalks.query/demo/mutl-layer.html)
-* [mock map identify](https://deyihu.github.io/maptalks.query/demo/mock-identify.html)
-* [tileclusterlayer query](https://deyihu.github.io/maptalks.query/demo/tileclusterlayer.html)
+* [simple data filter](https://maptalks.org/maptalks.query/demo/base.html)
+* [simple spatial query](https://maptalks.org/maptalks.query/demo/base-spatial.html)
+* [vt data filter](https://maptalks.org/maptalks.query/demo/vt.html)
+* [vt spatial query](https://maptalks.org/maptalks.query/demo/vt-spatial.html)
+* [spatial query operator](https://maptalks.org/maptalks.query/demo/spatial-op.html)
+* [buffer query](https://maptalks.org/maptalks.query/demo/buffer.html)
+* [multi layers query](https://maptalks.org/maptalks.query/demo/mutl-layer.html)
+* [mock map identify](https://maptalks.org/maptalks.query/demo/mock-identify.html)
+* [tileclusterlayer query](https://maptalks.org/maptalks.query/demo/tileclusterlayer.html)
 
 ## Install
 
