@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deyihu/maptalks.query.git"
+    "url": "git+https://github.com/maptalks/maptalks.query.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/deyihu/maptalks.query/issues"
+    "url": "https://github.com/maptalks/maptalks.query/issues"
   },
-  "homepage": "https://github.com/deyihu/maptalks.query#readme",
+  "homepage": "https://github.com/maptalks/maptalks.query#readme",
   "devDependencies": {
     "maptalks": "1.0.0-rc.37",
     "cross-env": "^5.1.4",
